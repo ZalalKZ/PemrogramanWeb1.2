@@ -1,0 +1,22 @@
+.html,label{
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+.html,h1{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 50px;
+}
+.html,body{
+   background: linear-gradient(0deg,rgba(203, 161, 122, 1) 0%, rgba(222, 167, 138, 1) 61%, rgba(209, 166, 155, 1) 100%);
+    background-attachment: fixed;
+    color: #8B6B48;
+}
+.html,table{
+    border-collapse: collapse;
+    width: 100%;
+    border-color: #8B6B48;
+    color: #8B6B48;
+    text-align: center;
+    font-size: 20px;
+}

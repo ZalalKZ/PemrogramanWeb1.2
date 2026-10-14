@@ -1,0 +1,15 @@
+.table{
+    border-style: solid;
+    max-width: fit-content;
+    align-items: center;
+    text-align: center;
+    border-width: 1px;
+    font-size: larger;
+    margin: auto;
+    margin-top: 50px;
+    background: linear-gradient(180deg, #a9caff 0.000%, #b8cbff 16.667%, #d3cbff 33.333%, #f0c8f9 50.000%, #ffc5f1 66.667%, #ffc0ec 83.333%, #ffbaec 100.000%);
+}
+.html,body{
+    background: linear-gradient(0deg, #a9caff 0.000%, #b8cbff 16.667%, #d3cbff 33.333%, #f0c8f9 50.000%, #ffc5f1 66.667%, #ffc0ec 83.333%, #ffbaec 100.000%);
+    background-attachment: fixed;
+}
